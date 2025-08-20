@@ -4,3 +4,6 @@ QtCommandAI is an application designed to manage tasks, execute commands, conduc
 First Screenshot:
 
 ![](images/first-screeshot.png)
+
+Second Screenshot Config App:
+![](images/second-screenshot.png)
